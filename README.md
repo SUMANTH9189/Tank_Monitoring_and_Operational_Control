@@ -34,7 +34,7 @@ This project automates tank monitoring and motor operation using IoT technologie
 Sensors → ESP32 → MQTT Broker → Node-RED Dashboard → User  
                     ↳ Email Alert System  
 
-*(Add system architecture diagram here)*
+
 
 ---
 
@@ -110,7 +110,6 @@ Dashboard displays:
 - Water usage graph
 - Location map
 
-*(Add dashboard screenshots here)*
 
 ---
 
@@ -120,9 +119,7 @@ Dashboard displays:
 - High-level alert email
 - Includes water level and motor status
 
-*(Add email alert screenshots here)*
+
 
 ---
-
-## 📁 Project Structure (Suggested)
 
